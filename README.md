@@ -1,4 +1,4 @@
-# 💫 About me:
+#  About me:
 * Full-stack developer
 * Cybersecurity
 * linux
